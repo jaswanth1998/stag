@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StagStreet2</string>
+    <string name="content">By signing up you agree to the <font fgcolor="#ffffff"><u><b>Terms of Serivice</b></u></font>and<font fgcolor="#ffffff"> <u><b>Privacy Policy</b></u></font></string>
+    <string name="email"><font fgcolor="#ffffff">Email</font></string>
+    <string name="password"><font fgcolor="#ffffff">Password</font></string>
+    <string name="title_activity_reside_menu">reside_menu</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"http://stagestreet.com\",\n  }\n}]</string>
+</resources>

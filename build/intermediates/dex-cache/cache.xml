@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/a676ac91d5007d9407de20e3a8601f066eb120ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_bb9ea92247671a290d94862b8a156fc2e9231858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/d421fc8493c883240e26c07cafae65a97ba506c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_f0a7b9a217bc1226454e7110ad6e98714b6f50ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/01b13e9be03f0ad50b813164a35415c3a0db1d81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_9438549db12aa707d801bade4bb49cfc83b6a3fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4dc2110b6e2cba02ee72f8ca08811c201159f716/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/e52388b49e69368ce09fd9f80c955157228c8852/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_b9b3831c4f6c107cb807699555d8f01c8c886c24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1efcfd9218089c1fafd604d931b924504fd12db">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e42ec6ab93d2c6ad1e30f5b418ceac8dbbc307ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/eabf7918dca56129171e94c35f099f10c40188b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_8bf80b8c479b7ba48647a0b3679dec329b127265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/d08ee048a46ffe7eab0f360cd820e6c618ad194a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_de6d66e7f8d188f488ffc65f44b2930c925594b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/4c501502b320147c70558e6d0a144b40b1721646/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_df0f3649d5e016fe7914f7152b5ffb73b6ae58f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/6e823618b6e3622f70d396904bed7d391bcf843b/output/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/nineoldandroids-library-2.4.0_aedd5df92bc4dbc1217facfcd113cb2a87cb3ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/6e823618b6e3622f70d396904bed7d391bcf843b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_32a3f8a5d951bb21dd51fc0af5feb82103f17afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_31a1c1e01145505d1231188d5111b8f10ee5c14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/2d24c0d499e2cbee0cc6fbb2068adae36ec7233e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_032c1bcc9496508f3d208b7f7afb3a7aefad8c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_15aa36fc3034134dfb60d2a2aba49c8829ab93cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/019695558eac8a287154c48d328a96de2293aa96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_519f808f3cf412c3544ccc139df0d7d92036168e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/404e86d6943ca827d750a1ccd50b22597407e9c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_1d0c7b0660437237f4a976aa792a038cbac2fe0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/3be8fea9a06cfd8f6c5e048fe1791892fe42388e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_fc76bc7c35ac0d2e3b029c4a75d44cda60b2e037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/69ef0b2da6c53c2d63971b596a1c5c4a50e0f7de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_cd846b64ce8213f9e4bd66a6a39a81e290eec932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.android/build-cache/230a4580308e697eb8329ab1c664449599cfe2b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jaswanth/Desktop/android project /StagStreet1-master/app/build/intermediates/pre-dexed/debug/classes_ad013333ad29143891a95609b9851e8c425175db.jar" />
+    </item>
+
+</items>
